@@ -1,6 +1,6 @@
 # Image_captioning
 
-prepare_photo.py - extracts features from all the images of the dataset using a pretrained VGG model and stores in a file titled 'features.pkl'
+prepare_photo.py - extracts features from all the images of the dataset using a pretrained model and stores in a file titled 'features.pkl'
 
 prepare_text.py - writes the image identifiers and captions from the dataset to a file titled 'descriptions.txt'
 
